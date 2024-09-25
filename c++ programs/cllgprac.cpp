@@ -7,6 +7,9 @@
 // }
 
 
+
+
+
 // #include<iostream>
 // using namespace std;
 // int main(){
@@ -14,6 +17,9 @@
 //     cout<<"vakul mittal IT-1";
 //     return 0;
 // }
+
+
+
 
 
 // #include<iostream>
@@ -29,6 +35,9 @@
 //     cout<<"vakul mittal IT-1"<<endl;
 //     return 0;
 // }
+
+
+
 
 
 // #include <iostream>
@@ -64,7 +73,10 @@
 //     return 0;
 // }
  
- 
+
+
+
+
 // #include<iostream>
 // using namespace std;
 // class abc{
@@ -87,6 +99,9 @@
 //     cout<<"vakul mittal IT-1";
 //     return 0;
 // }
+
+
+
 
 
 // #include<iostream>
@@ -132,6 +147,10 @@
 //     cout<<"vakul mittal IT-1"<<endl;
 //     return 0;
 // }
+
+
+
+
 
 
 // #include<iostream>
@@ -193,6 +212,11 @@
 // }
 
 
+
+
+
+
+
 // #include<iostream>
 // using namespace std;
 // class employee{
@@ -232,6 +256,11 @@
 // }
 
 
+
+
+
+
+
 // #include<iostream>
 // #include<cmath>
 // using namespace std;
@@ -260,6 +289,10 @@
 //     cout<<"vakul mittal IT-1"<<endl;
 //     return 0;
 // }
+
+
+
+
 
 
 // #include<iostream>
@@ -316,6 +349,9 @@
 //     ans.display();
 //     return 0;
 // }
+
+
+
 
 
 
@@ -392,6 +428,10 @@
 // }
 
 
+
+
+
+
 // #include <iostream>
 
 // using namespace std;
@@ -438,6 +478,9 @@
 
 //     return 0;
 // }
+
+
+
 
 
 
@@ -527,6 +570,9 @@
 
 
 
+
+
+
 // #include <iostream>
 // using namespace std;
 
@@ -569,6 +615,10 @@
 
 //     return 0;
 // // }
+
+
+
+
 
 
 // #include <iostream>
@@ -617,6 +667,11 @@
 
 //     return 0;
 // }
+
+
+
+
+
 
 
 // #include <iostream>
@@ -696,6 +751,10 @@
 
 //     return 0;
 // }
+
+
+
+
 
 
 
@@ -817,7 +876,6 @@
 //     return 31;
 // }
 
-
 // int main()
 // {
     
@@ -867,6 +925,9 @@
 
 //     return 0;
 // }
+
+
+
 
 
 
@@ -1021,6 +1082,9 @@
 
 
 
+
+
+
 // #include <iostream>
 // using namespace std;
 
@@ -1083,6 +1147,11 @@
 
 //     return 0;
 // }
+
+
+
+
+
 
 
 // #include <iostream>
@@ -1175,6 +1244,9 @@
 
 
 
+
+
+
 // #include<iostream> 
 // #include <string>
 // using namespace std;
@@ -1249,6 +1321,10 @@
 
 
 
+
+
+
+
 // #include <iostream>
 // using namespace std;
 
@@ -1294,6 +1370,10 @@
 
 //     return 0;
 // }
+
+
+
+
 
 
 
@@ -1370,6 +1450,11 @@
 
 
 
+
+
+
+
+
 // #include <iostream>
 // #include <cmath> // For sqrt() function used in Heron's formula
 // using namespace std;
@@ -1419,6 +1504,10 @@
 
 //     return 0;
 // }
+
+
+
+
 
 
 
